@@ -1,6 +1,6 @@
 # 3 - Sean Weber - HTML CSS Git: Code Refactor
 
-![Horiseon] (./assets/images/screenshot.png)
+![Horiseon] (./assets/images/screenshot.png?raw=true "screenshot")
 
 ## Description
 
